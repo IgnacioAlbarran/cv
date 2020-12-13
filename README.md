@@ -6,7 +6,7 @@
 **Nationality:** España  <br>
 ## Skills
 **Medium level** <br>
-Ruby, Rails, Git, PostgreSQL.
+Ruby, Rails, Git, PostgreSQL, Rspec, Cypress.
 **Beginner level** <br>
 MySQL, SQL, CSS, JavaScript, NodeJS, PHP.
 ## Related Work Experience
@@ -20,7 +20,8 @@ MySQL, SQL, CSS, JavaScript, NodeJS, PHP.
 **Mexicano** - It is an API using Ruby On Rails. It could update the data in 3 different social media API's at the same time.
 ## Education
 **2018 - 2019** <br>
-**DEVSCOLA - RUN 2018**
+**DEVSCOLA - RUN 2018** <br>
+Coding course based in Agile methodologies and TDD (test-driven developement). Through out it I have learned how to use the Linux console, the version control software Git, and also how to code in Ruby and Javascript. We have also learned React and Express. The learning enviroment has been in a cooperative and self-learning way.
 ## Certificates
 ## Other skills
 **English:** Fluent (Cambridge certified) <br>
