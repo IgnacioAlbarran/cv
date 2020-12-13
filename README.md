@@ -6,7 +6,7 @@
 **Nationality:** España  <br>
 ## Skills
 **Medium level** <br>
-Ruby, Rails, Git, PostgreSQL, Rspec, Cypress.
+Ruby, Rails, Git, PostgreSQL, Rspec, Cypress. <br>
 **Beginner level** <br>
 MySQL, SQL, CSS, JavaScript, NodeJS, PHP.
 ## Related Work Experience
