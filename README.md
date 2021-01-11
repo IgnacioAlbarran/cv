@@ -26,8 +26,9 @@ Coding course based in Agile methodologies and TDD (test-driven developement). T
 **GeeksHubs - Backend Bootcamp** <br>
 Course that teaches how to create REST API's using NodeJS, Express. Technologies used: Git, NPM, SQL, MySQL, SQLite, TypeORM, MongoDB.
 ## Certificates
+CAE - Cambridge Advanced English Certificate.
 ## Other skills
-**English:** Fluent (Cambridge certified) <br>
+**English:** Fluent<br>
 **Spanish:** Native <br>
 ## Training with programming challenges
 **Codewars bagdes:** <br>
