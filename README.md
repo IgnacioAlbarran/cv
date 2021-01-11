@@ -11,7 +11,7 @@ Ruby, Rails, Javascript, NodeJS, Express, Git, Rspec, PostgreSQL, MySQL, Cypress
 CSS, TypeORM, MongoDB, PHP.
 ## Related Work Experience
 **May 2019 - May 2020** <br>
-**Backend Developer - Rankia<br>
+**Backend Developer - Rankia**<br>
 **Function:** Responsible of Backlog, performing all kind of tasks to a very large application in Ruby on Rails (RoR), either new features or Bug-fixing, always coding using test driven development (TDD) using continous integration (CI) and deploying to production frequently..
 ## Personal Projects
 **2020 - PRESENT** <br>
