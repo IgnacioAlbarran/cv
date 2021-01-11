@@ -24,7 +24,8 @@ CSS, TypeORM, MongoDB, PHP.
 Coding course based in Agile methodologies and TDD (test-driven developement). Through out it I have learned how to use the Linux console, the version control software Git, and also how to code in Ruby and Javascript. We have also learned React and Express. The learning enviroment has been in a cooperative and self-learning way.
 **2020 - 2021**  <br>
 **GeeksHubs - Backend Bootcamp** <br>
-Course that teaches how to create REST API's using NodeJS, Express. Technologies used: Git, NPM, SQL, MySQL, SQLite, TypeORM, MongoDB.
+Course that teaches how to create REST API's using NodeJS, Express.
+Technologies used: Git, NPM, SQL, MySQL, SQLite, TypeORM, MongoDB, Mongoose, Postman.
 ## Certificates
 CAE - Cambridge Advanced English Certificate.
 ## Other skills
